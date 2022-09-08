@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: #1F2937;
+}
+
+.footer {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    background-color: #1F2937;
+    color: #f9fAf8;
+    padding: 24px;
+}
